@@ -4,10 +4,9 @@ function App() {
 
   return (
     <>
-      <div>
-       
-      </div>
       <h1>Hello Professor Lumbard</h1>
+       <div> 
+      </div>
       <p>
         Logan was here
       </p>
